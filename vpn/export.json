@@ -1,0 +1,2445 @@
+{
+  "random" : false,
+  "authPass" : null,
+  "useOnlinePac" : false,
+  "TTL" : 0,
+  "global" : false,
+  "reconnectTimes" : 3,
+  "index" : 0,
+  "proxyType" : 0,
+  "proxyHost" : null,
+  "authUser" : null,
+  "proxyAuthPass" : null,
+  "isDefault" : false,
+  "pacUrl" : null,
+  "configs" : [
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国1",
+      "server" : "120.77.61.230",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTE="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "请选择线路：",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "6K+36YCJ5oup57q\/6Lev77ya"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP主力-香港",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Li75YqbLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华南-香港",
+      "server" : "120.25.202.132",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5Y2XLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华北-香港",
+      "server" : "120.27.119.226",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5YyXLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华东-香港",
+      "server" : "139.196.78.65",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5LicLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国1",
+      "server" : "120.77.61.230",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTE="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国2",
+      "server" : "120.77.61.122",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTI="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-日本",
+      "server" : "120.77.57.99",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLeaXpeacrA=="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "以下线路年付VIP专享:",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "5Lul5LiL57q\/6Lev5bm05LuYVklQ5LiT5LqrOg=="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华南)",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWNlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华北)",
+      "server" : "59.110.136.219",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWMlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华东)",
+      "server" : "120.27.228.106",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuS4nCk="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-美国",
+      "server" : "120.25.208.163",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt576O5Zu9"
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-日本",
+      "server" : "120.77.62.26",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt5pel5pys"
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP香港(不限流量)",
+      "server" : "47.52.37.123",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDpppnmuK8o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP日本(不限流量)",
+      "server" : "45.77.24.192",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDml6XmnKwo5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "91636971",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP美国(不限流量)",
+      "server" : "45.63.52.137",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDnvo7lm70o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "请双击选择线路：",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "6K+35Y+M5Ye76YCJ5oup57q\/6Lev77ya"
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP主力-香港",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Li75YqbLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华南-香港",
+      "server" : "120.25.202.132",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5Y2XLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华北-香港",
+      "server" : "120.27.119.226",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5YyXLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华东-香港",
+      "server" : "139.196.78.65",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5LicLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国1",
+      "server" : "120.77.61.230",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTE="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国2",
+      "server" : "120.77.61.122",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTI="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-日本",
+      "server" : "120.77.57.99",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLeaXpeacrA=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "以下线路年付VIP专享:",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "5Lul5LiL57q\/6Lev5bm05LuYVklQ5LiT5LqrOg=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华南)",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWNlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华北)",
+      "server" : "59.110.136.219",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWMlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华东)",
+      "server" : "120.27.228.106",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuS4nCk="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-美国",
+      "server" : "120.25.208.163",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt576O5Zu9"
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-日本",
+      "server" : "120.77.62.26",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt5pel5pys"
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP香港(不限流量)",
+      "server" : "47.52.37.123",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDpppnmuK8o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP日本(不限流量)",
+      "server" : "45.77.24.192",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDml6XmnKwo5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP美国(不限流量)",
+      "server" : "45.63.52.137",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDnvo7lm70o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "请双击选择线路：",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "6K+35Y+M5Ye76YCJ5oup57q\/6Lev77ya"
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP主力-香港",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Li75YqbLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华南-香港",
+      "server" : "120.25.202.132",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5Y2XLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华北-香港",
+      "server" : "120.27.119.226",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5YyXLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华东-香港",
+      "server" : "139.196.78.65",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5LicLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国1",
+      "server" : "120.77.61.230",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTE="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国2",
+      "server" : "120.77.61.122",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTI="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-日本",
+      "server" : "120.77.57.99",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLeaXpeacrA=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "以下线路年付VIP专享:",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "5Lul5LiL57q\/6Lev5bm05LuYVklQ5LiT5LqrOg=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华南)",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWNlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华北)",
+      "server" : "59.110.136.219",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWMlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华东)",
+      "server" : "120.27.228.106",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuS4nCk="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-美国",
+      "server" : "120.25.208.163",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt576O5Zu9"
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-日本",
+      "server" : "120.77.62.26",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt5pel5pys"
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP香港(不限流量)",
+      "server" : "47.52.37.123",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDpppnmuK8o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP日本(不限流量)",
+      "server" : "45.77.24.192",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDml6XmnKwo5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "1qaz2wsx",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP美国(不限流量)",
+      "server" : "45.63.52.137",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDnvo7lm70o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "请双击选择线路：",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "6K+35Y+M5Ye76YCJ5oup57q\/6Lev77ya"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP主力-香港",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Li75YqbLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华南-香港",
+      "server" : "120.25.202.132",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5Y2XLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华北-香港",
+      "server" : "120.27.119.226",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5YyXLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华东-香港",
+      "server" : "139.196.78.65",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5LicLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国1",
+      "server" : "120.77.61.230",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTE="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国2",
+      "server" : "120.77.61.122",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTI="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-日本",
+      "server" : "120.77.57.99",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLeaXpeacrA=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "以下线路年付VIP专享:",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "5Lul5LiL57q\/6Lev5bm05LuYVklQ5LiT5LqrOg=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华南)",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWNlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华北)",
+      "server" : "59.110.136.219",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWMlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华东)",
+      "server" : "120.27.228.106",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuS4nCk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-美国",
+      "server" : "120.25.208.163",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt576O5Zu9"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-日本",
+      "server" : "120.77.62.26",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt5pel5pys"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP香港(不限流量)",
+      "server" : "47.52.37.123",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDpppnmuK8o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP日本(不限流量)",
+      "server" : "45.77.24.192",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDml6XmnKwo5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP美国(不限流量)",
+      "server" : "45.63.52.137",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDnvo7lm70o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : ""
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "请双击选择线路：",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "6K+35Y+M5Ye76YCJ5oup57q\/6Lev77ya"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP主力-香港",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Li75YqbLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华南-香港",
+      "server" : "120.25.202.132",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5Y2XLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华北-香港",
+      "server" : "120.27.119.226",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5YyXLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华东-香港",
+      "server" : "139.196.78.65",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5LicLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国1",
+      "server" : "120.77.61.230",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTE="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国2",
+      "server" : "120.77.61.122",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTI="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-日本",
+      "server" : "120.77.57.99",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLeaXpeacrA=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "以下线路年付VIP专享:",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "5Lul5LiL57q\/6Lev5bm05LuYVklQ5LiT5LqrOg=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华南)",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWNlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华北)",
+      "server" : "59.110.136.219",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWMlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华东)",
+      "server" : "120.27.228.106",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuS4nCk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-美国",
+      "server" : "120.25.208.163",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt576O5Zu9"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-日本",
+      "server" : "120.77.62.26",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt5pel5pys"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP香港(不限流量)",
+      "server" : "47.52.37.123",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDpppnmuK8o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP日本(不限流量)",
+      "server" : "45.77.24.192",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDml6XmnKwo5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP美国(不限流量)",
+      "server" : "45.63.52.137",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDnvo7lm70o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "请双击选择线路：",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "6K+35Y+M5Ye76YCJ5oup57q\/6Lev77ya"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP主力-香港",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Li75YqbLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华南-香港",
+      "server" : "120.25.202.132",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5Y2XLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华北-香港",
+      "server" : "120.27.119.226",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5YyXLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华东-香港",
+      "server" : "139.196.78.65",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5LicLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国1",
+      "server" : "120.77.61.230",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTE="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国2",
+      "server" : "120.77.61.122",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTI="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-日本",
+      "server" : "120.77.57.99",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLeaXpeacrA=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "以下线路年付VIP专享:",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "5Lul5LiL57q\/6Lev5bm05LuYVklQ5LiT5LqrOg=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华南)",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWNlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华北)",
+      "server" : "59.110.136.219",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWMlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华东)",
+      "server" : "120.27.228.106",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuS4nCk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-美国",
+      "server" : "120.25.208.163",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt576O5Zu9"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-日本",
+      "server" : "120.77.62.26",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt5pel5pys"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP香港(不限流量)",
+      "server" : "47.52.37.123",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDpppnmuK8o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP日本(不限流量)",
+      "server" : "45.77.24.192",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDml6XmnKwo5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP美国(不限流量)",
+      "server" : "45.63.52.137",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDnvo7lm70o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "请双击选择线路：",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "6K+35Y+M5Ye76YCJ5oup57q\/6Lev77ya"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP主力-香港",
+      "server" : "120.76.44.158",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Li75YqbLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华南-香港",
+      "server" : "120.25.202.132",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5Y2XLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华北-香港",
+      "server" : "120.27.119.226",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5YyXLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP华东-香港",
+      "server" : "139.196.78.65",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Y2O5LicLemmmea4rw=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国1",
+      "server" : "120.77.61.230",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTE="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-美国2",
+      "server" : "120.77.61.122",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLee+juWbvTI="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "BGP加速-日本",
+      "server" : "120.77.57.99",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "QkdQ5Yqg6YCfLeaXpeacrA=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "以下线路年付VIP专享:",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "5Lul5LiL57q\/6Lev5bm05LuYVklQ5LiT5LqrOg=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华南)",
+      "server" : "112.74.78.60",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWNlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华北)",
+      "server" : "59.110.136.219",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuWMlyk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-香港(华东)",
+      "server" : "120.27.228.106",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt6aaZ5rivKOWNjuS4nCk="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-美国",
+      "server" : "120.25.208.163",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt576O5Zu9"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP优化-日本",
+      "server" : "120.77.62.26",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDkvJjljJYt5pel5pys"
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP香港(不限流量)",
+      "server" : "47.52.37.123",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDpppnmuK8o5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP日本(不限流量)",
+      "server" : "45.77.24.192",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDml6XmnKwo5LiN6ZmQ5rWB6YePKQ=="
+    },
+    {
+      "enable" : true,
+      "password" : "qazwsx10094",
+      "method" : "aes-256-cfb",
+      "remarks" : "(年)VIP美国(不限流量)",
+      "server" : "45.63.52.137",
+      "kcptun" : {
+        "nocomp" : false,
+        "key" : "it's a secrect",
+        "crypt" : "aes",
+        "datashard" : 10,
+        "mtu" : 1350,
+        "mode" : "fast",
+        "parityshard" : 3,
+        "arguments" : ""
+      },
+      "enabled_kcptun" : false,
+      "server_port" : 13511,
+      "remarks_base64" : "KOW5tClWSVDnvo7lm70o5LiN6ZmQ5rWB6YePKQ=="
+    }
+  ],
+  "proxyPort" : 0,
+  "randomAlgorithm" : 0,
+  "proxyEnable" : false,
+  "enabled" : true,
+  "autoban" : false,
+  "proxyAuthUser" : null,
+  "shareOverLan" : false,
+  "localPort" : 1080
+}
